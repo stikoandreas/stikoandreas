@@ -1,4 +1,7 @@
 ## Hi there 👋
+Developer, maker and experimental photographer.
+
+Check out my projects!
 
 <!--
 **stikoandreas/stikoandreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
